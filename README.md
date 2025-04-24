@@ -31,7 +31,6 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
 ```py
 import pandas as pd
 from google.colab import drive
@@ -185,6 +184,6 @@ plt.show()
 
       
 # RESULT:
-       We have performed Feature Encoding and Transformation on the given data set successfully.
+We have performed Feature Encoding and Transformation on the given data set successfully.
 
        
